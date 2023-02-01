@@ -26,7 +26,9 @@
   <!--DevOps-->
   <h4>DevOps</h4>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
-<div>
+</div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smileWeek&show_icons=true&theme=radical)
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileWeek&layout=compact)](https://github.com/smileWeek/github-readme-stats)
