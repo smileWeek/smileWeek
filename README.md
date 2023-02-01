@@ -1,4 +1,4 @@
-Hello World
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Hello /n I'm Oscar%20render&fontSize=90)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smileWeek&show_icons=true&theme=radical)
 <br>
