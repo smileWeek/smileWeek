@@ -29,6 +29,8 @@
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smileWeek&show_icons=true&theme=radical)
-<br>
+
+<div>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileWeek&layout=compact)](https://github.com/smileWeek/github-readme-stats)
