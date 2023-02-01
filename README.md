@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&fontAlign=70&rotate=20&fontAlignY=25&animation=fadeIn&desc=Welcome%20To%20smileWeek%27s%20GitHub%20page.&descAlign=65.&descAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&fontAlign=70&rotate=20&fontAlignY=25&animation=fadeIn&desc=Welcome%20To%20smileWeek%27s%20GitHub%20page.&descAlign=65.&descAlignY=40)
 <!-- 컨텐츠 -->
 <div align=center>
   <h2>Tech Skill 🌠</h2>
@@ -37,10 +37,8 @@
   <br/>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
   <br/>
-  <br/>
-  <br/>
-  <br/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smileWeek&show_icons=true&theme=radical)
-  </br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileWeek&layout=compact)](https://github.com/smileWeek/github-readme-stats)
+  
 <div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smileWeek&show_icons=true&theme=radical)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileWeek&layout=compact)](https://github.com/smileWeek/github-readme-stats)
