@@ -1,7 +1,7 @@
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&fontAlign=70&rotate=20&fontAlignY=25&animation=fadeIn&desc=Welcome%20To%20smileWeek%27s%20GitHub%20page.&descAlign=65.&descAlignY=40)
 <!-- 컨텐츠 -->
-<div align=center>
+<div align=left>
   <h2>Tech Skill 🌠</h2>
   <br/>
   <!--프론트-->
