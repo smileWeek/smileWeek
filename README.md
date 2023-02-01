@@ -33,10 +33,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 </div>
-
+<h3></h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smileWeek&show_icons=true&theme=radical)
-
-<div>
-</div>
-
+<h3></h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileWeek&layout=compact)](https://github.com/smileWeek/github-readme-stats)
