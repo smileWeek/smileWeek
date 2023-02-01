@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 </div>
 <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smileWeek&show_icons=true&theme=radical)
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smileWeek&layout=compact)](https://github.com/smileWeek/github-readme-stats)
