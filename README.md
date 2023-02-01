@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20I'm%20Oscar%20&fontSize=90)
-<br>
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&animation=fadeIn&desc=Welcome&descAlign=70.&descAlignY=44)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smileWeek&show_icons=true&theme=radical)
 <br>
